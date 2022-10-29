@@ -255,7 +255,7 @@
 
 })()
 
-/*gamed*/
+/*gamed
 let title = document.querySelector('.titlegame');
 let turn = 'x';
 let squares = [];
@@ -313,3 +313,4 @@ function game(id)
   }
   winner();
 }
+*/
